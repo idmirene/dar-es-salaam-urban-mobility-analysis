@@ -68,10 +68,32 @@ These findings describe the simulated dataset and should not be interpreted as a
 
 ## Project Outputs
 
-- Formal project report
-- SQL script for dataset creation, preparation and analysis
-- Three-page Power BI dashboard
-- Dashboard screenshots
+The complete project deliverables are available below:
+
+| Deliverable | Description |
+|---|---|
+| [Project Report (PDF)](report/urban_mobility_analysis_report.pdf) | Complete written report documenting the methodology, findings and conclusions |
+| [SQL Analysis Script](sql/mobility_analysis_cleaned.sql) | SQL code for dataset creation, preparation, quality checks and analysis |
+| [Power BI Dashboard](dashboard/Dar_es_Salaam_Urban_Mobility_Dashboard.pbix) | Interactive three-page dashboard |
+| [Dashboard Screenshots](images/) | Static previews of the dashboard pages |
+
+## Dashboard Preview
+
+The Power BI dashboard presents the results through three pages.
+
+### 1. Transport Performance Overview
+
+![Performance Overview](images/Dashboard_Page_01_Performance_Overview.png)
+
+### 2. Cost and Performance
+
+![Cost and Performance](images/Dashboard_Page_02_Cost_Performance.png)
+
+### 3. Temporal Patterns in Urban Mobility
+
+![Temporal Patterns](images/Dashboard_Page_03_Temporal_Pattern.png)
+
+To explore the interactive dashboard, download the [Power BI file](dashboard/Dar_es_Salaam_Urban_Mobility_Dashboard.pbix).
 
 ## Limitations
 
