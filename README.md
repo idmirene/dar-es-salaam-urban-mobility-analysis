@@ -52,27 +52,26 @@ Key variables include:
 - Motorcycles recorded the highest average travel speed.
 - BRT recorded the lowest average cost per kilometre among paid transport modes.
 - Daladala recorded the longest average travel time.
-- Walking and daladala exhibited the greatest travel-time variability.
+- Walking and daladala exhibited the greatest travel-time variability, measured using sample standard deviation.
 - Average travel times differed across the four time periods examined.
 
 These findings describe the simulated dataset and should not be interpreted as actual transport performance in Dar es Salaam.
 
 ## Project Structure
 
-```text
-├── report/
-├── sql/
-├── dashboard/
-├── images/
-└── README.md
-```
+| Folder | Contents |
+|---|---|
+| `report/` | Final project report in PDF format |
+| `sql/` | SQL script for dataset creation, preparation and analysis |
+| `dashboard/` | Power BI dashboard file |
+| `images/` | Dashboard screenshots and project visuals |
 
 ## Project Outputs
 
 - Formal project report
-- SQL scripts for dataset creation, preparation and analysis
-- Power BI dashboard
-- Project visualisations
+- SQL script for dataset creation, preparation and analysis
+- Three-page Power BI dashboard
+- Dashboard screenshots
 
 ## Limitations
 
